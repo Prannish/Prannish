@@ -1,6 +1,10 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Pranish Ranjit</h1>
-<h3 align="center">👀 I’m interested in learning New Techs</h3>
+<h3 align="center">
+👀 Goals:
+step 1: Learn
+Step 2: Remove L
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prannish&label=Profile%20views&color=0e75b6&style=flat" alt="prannish" /> </p>
 <img src="https://wallpaperaccess.com/full/1338415.jpg" width="400" align="right">
@@ -8,7 +12,7 @@
 
 - 🔭 I’m currently working on [Dummy Projects](https://github.com/Prannish/Projects-I-Made)
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prannish/Projects-I-Made](https://github.com/Prannish/Projects-I-Made)
 
