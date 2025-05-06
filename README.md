@@ -10,11 +10,7 @@ Step 2: Remove L
 <img src="https://wallpaperaccess.com/full/1338415.jpg" width="400" align="right">
 <p align="left"> <a href="https://twitter.com/pranishranjit" target="blank"><img src="https://img.shields.io/twitter/follow/pranishranjit?logo=twitter&style=for-the-badge" alt="pranishranjit" /></a> </p>
 
-- 🔭 I’m currently working on [Dummy Projects](https://github.com/Prannish/Projects-I-Made)
-
 - 🌱 I’m currently learning **MERN**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Prannish/Projects-I-Made](https://github.com/Prannish/Projects-I-Made)
 
 - 📝 I regularly write articles on [https://x.com/PranishRanjit](https://x.com/PranishRanjit)
 
