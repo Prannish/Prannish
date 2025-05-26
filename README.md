@@ -12,7 +12,7 @@ Step 2: Remove L
 
 - 🌱 I’m currently learning **MERN**
 
-- 📝 I regularly write articles on [https://x.com/PranishRanjit](https://x.com/PranishRanjit)
+- 📝 I regularly write about my progress on [https://x.com/PranishRanjit](https://x.com/PranishRanjit)
 
 - 📫 How to reach me **pranish492@gmail.com**
 
