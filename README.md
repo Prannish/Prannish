@@ -99,10 +99,4 @@ Step 2: Remove L
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prannish&show_icons=true&locale=en&layout=compact" alt="prannish" />
-</p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prannish&show_icons=true&locale=en" alt="prannish" />
-</p>
