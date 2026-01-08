@@ -22,9 +22,11 @@ Step 2: Remove L
 
 - 📝 I regularly write about my progress on [https://x.com/PranishRanjit](https://x.com/PranishRanjit)
 
-- 📫 How to reach me **pranish492@gmail.com**
+- 📫 How to reach me: **pranish492@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pranish-ranjit/](https://www.linkedin.com/in/pranish-ranjit/)
+- 🌐 Check out my portfolio: [www.pranishranjit.com.np](https://www.pranishranjit.com.np)
+
+- 📄 Know about my experiences: [https://www.linkedin.com/in/pranish-ranjit/](https://www.linkedin.com/in/pranish-ranjit/)
 
 **⚡ Fun fact:- I have lots of hidden talent 🤭 The problem is, even I can't find them.**
 
@@ -37,6 +39,9 @@ Step 2: Remove L
   </a>
   <a href="https://linkedin.com/in/pranish-ranjit" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranish ranjit" height="30" width="40" />
+  </a>
+  <a href="https://www.pranishranjit.com.np" target="blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="portfolio" height="30" width="40"/>
   </a>
 </p>
 
