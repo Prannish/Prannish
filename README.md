@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Pranish Ranjit</h1>
 <h3 align="center">
 👀 Goals:  
-step 1: Learn  
-Step 2: Remove L  
+Step 1: Learn  
+Step 2: Remove L
 </h3>
 
 <p align="left"> 
@@ -35,7 +35,7 @@ Step 2: Remove L
   <a href="https://twitter.com/pranishranjit" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranishranjit" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/pranish ranjit" target="blank">
+  <a href="https://linkedin.com/in/pranish-ranjit" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranish ranjit" height="30" width="40" />
   </a>
 </p>
@@ -84,7 +84,7 @@ Step 2: Remove L
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb-atlas" width="40" height="40"/>
@@ -96,13 +96,6 @@ Step 2: Remove L
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
+  </a>
 </p>
-
----
-
-
