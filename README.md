@@ -18,7 +18,7 @@ Step 2: Remove L
   </a> 
 </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently exploring **MERN**
 
 - 📝 I regularly write about my progress on [https://x.com/PranishRanjit](https://x.com/PranishRanjit)
 
