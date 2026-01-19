@@ -1,5 +1,6 @@
-![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://raw.githubusercontent.com/Prannish/Prannish/main/LinkedIn%20Cover.png
-)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prannish/Prannish/main/LinkedIn%20Cover.png" alt="MasterHead" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Pranish Ranjit</h1>
 <h3 align="center">
 👀 Goals:  
