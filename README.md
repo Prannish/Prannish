@@ -3,9 +3,7 @@
 </p>
 <h3 align="center">
 👀 Goals:  
-  <br/>
 Step 1: Learn  
-  <br/>
 Step 2: Remove L
 </h3>
 
