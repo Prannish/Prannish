@@ -1,10 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Prannish/Prannish/main/LinkedIn%20Cover.png" alt="MasterHead" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Pranish Ranjit</h1>
 <h3 align="center">
 👀 Goals:  
+  <br/>
 Step 1: Learn  
+  <br/>
 Step 2: Remove L
 </h3>
 
