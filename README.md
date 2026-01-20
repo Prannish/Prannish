@@ -14,15 +14,6 @@ Step 2: Remove L
 <img src="https://wallpaperaccess.com/full/1338415.jpg" width="400" align="right">
 
 
-
-- 📝 I regularly write about my progress on [https://x.com/PranishRanjit](https://x.com/PranishRanjit)
-
-- 📫 How to reach me: **pranish492@gmail.com**
-
-- 🌐 Check out my portfolio: [www.pranishranjit.com.np](https://www.pranishranjit.com.np)
-
-- 📄 Know about my experiences: [https://www.linkedin.com/in/pranish-ranjit/](https://www.linkedin.com/in/pranish-ranjit/)
-
 **⚡ Fun fact:- I have lots of hidden talent 🤭 The problem is, even I can't find them.**
 
 ---
