@@ -13,13 +13,7 @@ Step 2: Remove L
 
 <img src="https://wallpaperaccess.com/full/1338415.jpg" width="400" align="right">
 
-<p align="left"> 
-  <a href="https://twitter.com/pranishranjit" target="blank">
-    <img src="https://img.shields.io/twitter/follow/pranishranjit?logo=twitter&style=for-the-badge" alt="pranishranjit" />
-  </a> 
-</p>
 
-- 🌱 I’m currently exploring **MERN**
 
 - 📝 I regularly write about my progress on [https://x.com/PranishRanjit](https://x.com/PranishRanjit)
 
