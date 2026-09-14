@@ -3,8 +3,7 @@
 </p>
 <h3 align="center">
 👀 Goals:  
-Step 1: Learn  
-Step 2: Remove L
+Learn . Build . Remove L
 </h3>
 
 <p align="left"> 
