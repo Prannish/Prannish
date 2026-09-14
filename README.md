@@ -12,9 +12,6 @@ Learn . Build . Remove L
 
 <img src="https://wallpaperaccess.com/full/1338415.jpg" width="400" align="right">
 
-
-**⚡ Fun fact:- I have lots of hidden talent 🤭 The problem is, even I can't find them.**
-
 ---
 
 <h3 align="left">Connect with me:</h3>
